@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>3</order>
+        <size>1</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">4b2956e1094232007f44e1046c8ff693</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-04 08:58:11</sys_created_on>
+        <sys_id>ccdd58d747c40210a7178f59e16d434a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_column_ccdd58d747c40210a7178f59e16d434a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-04 08:58:11</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>214285881bbef118ba5ceb9b2d4bcb14</instance_id>
+        <instance_name>dev223166</instance_name>
+        <name>sp_column_ccdd58d747c40210a7178f59e16d434a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>3</order><size>1</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">4b2956e1094232007f44e1046c8ff693</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-04 08:58:11</sys_created_on><sys_id>ccdd58d747c40210a7178f59e16d434a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>3</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sp_column_ccdd58d747c40210a7178f59e16d434a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-04 08:58:11</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-238693155</payload_hash>
+        <record_name>3</record_name>
+        <reverted_from/>
+        <source>55796b60470c4210a7178f59e16d4307</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-04 08:58:11</sys_created_on>
+        <sys_id>00dd58d747c40210a7178f59e16d434d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d7356e8440000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-04 08:58:11</sys_updated_on>
+        <type>Column</type>
+        <update_guid>44dd58d707c40210cc77bc6223e12e4c</update_guid>
+        <update_guid_history>44dd58d707c40210cc77bc6223e12e4c:-238693155</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="3">0d60e05b47c40210a7178f59e16d43db</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-04 09:09:27</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>5942ecaa834f4416aabd164a5d7a9581</sys_id>
+        <sys_metadata>ccdd58d747c40210a7178f59e16d434a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sp_column_ccdd58d747c40210a7178f59e16d434a</sys_update_name>
+        <sys_update_version display_value="sp_column_ccdd58d747c40210a7178f59e16d434a">00dd58d747c40210a7178f59e16d434d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-04 09:09:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
